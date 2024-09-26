@@ -1,9 +1,9 @@
 {
-  "name": "YOURAPPNAME",
-  "vendor": "vtex",
+  "name": "google-tag",
+  "vendor": "brain",
   "version": "0.0.1",
-  "title": "CHANGEME",
-  "description": "CHANGEME",
+  "title": "google_tag_manager",
+  "description": "google_tag_manager",
   "billingOptions": {
     "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
     "support": {
@@ -25,7 +25,7 @@
     "vtex.pixel-interfaces": "1.x"
   },
   "settingsSchema": {
-    "title": "YOUR APP NAME",
+    "title": "google-tag",
     "type": "object",
     "properties": {
       "gtmId": {
