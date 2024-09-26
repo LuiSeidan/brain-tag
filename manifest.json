@@ -1,7 +1,7 @@
 {
   "name": "google-tag",
   "vendor": "brain",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "google_tag_manager",
   "description": "google_tag_manager",
   "billingOptions": {
